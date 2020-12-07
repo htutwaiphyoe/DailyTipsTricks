@@ -33,3 +33,23 @@ document.designMode = "on"
 [width expand in other direction](https://stackoverflow.com/questions/15494296/css-expand-width-in-other-direction)
 
 [svg circle](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/circle)
+
+## 5.12.2020
+
+[Redirect to index.html for routes in SPA](https://www.netlify.com/blog/2017/05/04/how-to-do-redirects-on-netlify/)
+
+[SEO Meta Tags](https://www.socialmediatoday.com/news/8-of-the-most-important-html-tags-for-seo/574987/)
+
+## 6.12.2020
+
+[Media Query for Ipad Pro](https://stackoverflow.com/questions/41978487/what-is-correct-media-query-for-ipad-pro)
+
+[Logo Maker](https://secure.logomaker.com/home-return)
+
+## 7.12.2020
+
+[why typeof null is object](https://stackoverflow.com/questions/18808226/why-is-typeof-null-object#:~:text=The%20reasoning%20behind%20this%20is,often%20used%20where%20objects%20appear.&text=In%20fact%2C%20the%20ECMAScript%20specification,11).)
+
+[scrollable table](https://stackoverflow.com/questions/23989463/how-to-set-tbody-height-with-overflow-scroll/23989771)
+
+[Gradient](https://uigradients.com/#DeepPurple)
