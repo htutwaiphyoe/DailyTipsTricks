@@ -53,3 +53,9 @@ document.designMode = "on"
 [scrollable table](https://stackoverflow.com/questions/23989463/how-to-set-tbody-height-with-overflow-scroll/23989771)
 
 [Gradient](https://uigradients.com/#DeepPurple)
+
+## 8.12.2020
+
+[thousand separator with decimal](https://gist.github.com/htutwaiphyoe/b66cff6e89ba6889abd0a82fb551ebad)
+
+[muliple resquests with axios](https://github.com/axios/axios)
