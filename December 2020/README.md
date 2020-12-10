@@ -59,3 +59,10 @@ document.designMode = "on"
 [thousand separator with decimal](https://gist.github.com/htutwaiphyoe/b66cff6e89ba6889abd0a82fb551ebad)
 
 [muliple resquests with axios](https://github.com/axios/axios)
+
+## 9.12.2020
+
+
+## 10.12.2020
+
+[Position sticky bug](https://stackoverflow.com/questions/43707076/how-does-the-position-sticky-property-work)
