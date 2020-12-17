@@ -62,7 +62,36 @@ document.designMode = "on"
 
 ## 9.12.2020
 
-
 ## 10.12.2020
 
 [Position sticky bug](https://stackoverflow.com/questions/43707076/how-does-the-position-sticky-property-work)
+
+## 11.12.2020
+
+## 12.12.2020
+
+[Remove remote origin git](https://stackoverflow.com/questions/16330404/git-how-to-remove-remote-origin-from-git-repo)
+
+[./ vs \_\_dirname](https://stackoverflow.com/questions/8131344/what-is-the-difference-between-dirname-and-in-node-js/18283508#18283508)
+
+## 13.12.2020
+
+## 14.12.2020
+
+## 15.12.2020
+
+## 16.12.2020
+
+[LF vs CRLF](https://qvault.io/2020/06/18/how-to-get-consistent-line-breaks-in-vs-code-lf-vs-crlf/)
+
+[Node.js version in package.json](https://stackoverflow.com/questions/29349684/how-can-i-specify-the-required-node-js-version-in-package-json)
+
+[jsend](https://github.com/omniti-labs/jsend)
+
+[http headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+
+[make commits in future](https://stackoverflow.com/questions/29927453/use-future-date-while-making-git-commits)
+
+## 17.12.2020
+
+## 18.12.2020   
