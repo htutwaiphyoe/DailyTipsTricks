@@ -94,4 +94,12 @@ document.designMode = "on"
 
 ## 17.12.2020
 
-## 18.12.2020   
+## 18.12.2020
+
+## 19.12.2020
+
+## 20.12.2020
+
+## 21.12.2020
+
+[Regular expression with only string with spaces](https://stackoverflow.com/questions/15472764/regular-expression-to-allow-spaces-between-words)
