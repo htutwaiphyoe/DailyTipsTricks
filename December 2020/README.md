@@ -103,3 +103,12 @@ document.designMode = "on"
 ## 21.12.2020
 
 [Regular expression with only string with spaces](https://stackoverflow.com/questions/15472764/regular-expression-to-allow-spaces-between-words)
+
+## 22.12.2020
+
+## 23.12.2020
+
+[html date input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date)
+[html datalist](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
+[html progress bar](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress)
+[mongoose unique error](https://github.com/blakehaswell/mongoose-unique-validator)
