@@ -112,3 +112,11 @@ document.designMode = "on"
 [html datalist](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
 [html progress bar](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress)
 [mongoose unique error](https://github.com/blakehaswell/mongoose-unique-validator)
+
+## 24.12.2020
+
+## 25.12.2020
+
+## 26.12.2020
+
+[check object is empty](https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-objec)
