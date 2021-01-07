@@ -7,7 +7,9 @@
 ## 3.1.2021
 
 [html title attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/title)
+
 [html Global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+
 [svg in React](https://stackoverflow.com/questions/23402542/embedding-svg-into-reactjs)
 
 ## 4.1.2021
@@ -19,4 +21,13 @@
 ## 6.1.2021
 
 [React Portal](https://reactjs.org/docs/portals.html)
+
 [React Transition group](https://reactcommunity.org/react-transition-group/)
+
+## 7.1.2021
+
+[useParams hook](https://reactrouter.com/web/api/Hooks/useparams)
+
+[React-router-dom hooks](https://reactrouter.com/web/api/Hooks)
+
+[onBlur event](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onblur)
