@@ -31,3 +31,15 @@
 [React-router-dom hooks](https://reactrouter.com/web/api/Hooks)
 
 [onBlur event](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onblur)
+
+## 8.1.2021
+
+[mongoose document to JavaScript Object](https://mongoosejs.com/docs/api.html#document_Document-toObject)
+
+[mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator#readme)
+
+[mongoose transactions](https://mongoosejs.com/docs/transactions.html)
+
+[mongoose array method](https://mongoosejs.com/docs/api/array.html#mongoosearray_MongooseArray-push)
+
+[enable CORS for React to Node](https://stackoverflow.com/questions/58972357/enable-cors-in-my-react-app-with-node-js-backend)
