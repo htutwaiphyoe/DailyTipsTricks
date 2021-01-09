@@ -43,3 +43,17 @@
 [mongoose array method](https://mongoosejs.com/docs/api/array.html#mongoosearray_MongooseArray-push)
 
 [enable CORS for React to Node](https://stackoverflow.com/questions/58972357/enable-cors-in-my-react-app-with-node-js-backend)
+
+## 9.1.2021
+
+[Abort Requests](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
+
+[input file accept](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file)
+
+[FileReader API for preview image](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
+
+[multer nodejs file handling](https://github.com/expressjs/multer)
+
+[FormData](https://developer.mozilla.org/en-US/docs/Web/API/FormData)
+
+[remove file in node](https://nodejs.org/api/fs.html#fs_fs_unlink_path_callback)
