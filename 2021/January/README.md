@@ -57,3 +57,17 @@
 [FormData](https://developer.mozilla.org/en-US/docs/Web/API/FormData)
 
 [remove file in node](https://nodejs.org/api/fs.html#fs_fs_unlink_path_callback)
+
+## 10.1.2021
+
+[untrack the tracked files in git](https://stackoverflow.com/questions/38983153/git-ignore-env-files-not-working)
+
+[JWT ExpiresIn](https://stackoverflow.com/questions/45207104/how-to-set-jwt-token-expiry-time-to-maximum-in-nodejs)
+
+[mongoose array schemaTypes with subdocuments](https://mongoosejs.com/docs/schematypes.html#arrays)
+
+[React environment variables](https://create-react-app.dev/docs/adding-custom-environment-variables/)
+
+[error response in axios](https://stackoverflow.com/questions/39153080/how-can-i-get-the-status-code-from-an-http-error-in-axios)
+
+[fetch vs axios](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5#:~:text=Axios%20is%20a%20Javascript%20library,automatic%20transforms%20of%20JSON%20data.)
