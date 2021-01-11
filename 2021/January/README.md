@@ -71,3 +71,7 @@
 [error response in axios](https://stackoverflow.com/questions/39153080/how-can-i-get-the-status-code-from-an-http-error-in-axios)
 
 [fetch vs axios](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5#:~:text=Axios%20is%20a%20Javascript%20library,automatic%20transforms%20of%20JSON%20data.)
+
+## 11.1.2021
+
+[configuration of global scripts for vscode terminal](https://stackoverflow.com/questions/56199111/visual-studio-code-cmd-error-cannot-be-loaded-because-running-scripts-is-disabl)
