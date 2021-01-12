@@ -75,3 +75,7 @@
 ## 11.1.2021
 
 [configuration of global scripts for vscode terminal](https://stackoverflow.com/questions/56199111/visual-studio-code-cmd-error-cannot-be-loaded-because-running-scripts-is-disabl)
+
+## 12.1.2021
+
+[dynamic title in react](https://hiddedevries.nl/en/blog/2018-07-19-accessible-page-titles-in-a-single-page-app)
