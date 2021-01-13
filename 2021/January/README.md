@@ -79,3 +79,7 @@
 ## 12.1.2021
 
 [dynamic title in react](https://hiddedevries.nl/en/blog/2018-07-19-accessible-page-titles-in-a-single-page-app)
+
+## 13.1.2021
+
+[Mastering Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
