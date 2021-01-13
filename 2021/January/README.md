@@ -83,3 +83,7 @@
 ## 13.1.2021
 
 [Mastering Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
+
+## 14.1.2021
+
+[remove folder in window terminal](https://stackoverflow.com/questions/22948189/how-to-solve-the-directory-is-not-empty-error-when-running-rmdir-command-in-a)
