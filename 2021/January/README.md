@@ -87,3 +87,7 @@
 ## 14.1.2021
 
 [remove folder in window terminal](https://stackoverflow.com/questions/22948189/how-to-solve-the-directory-is-not-empty-error-when-running-rmdir-command-in-a)
+
+## 15.1.2021
+
+[reference local image in react](https://stackoverflow.com/questions/39999367/how-do-i-reference-a-local-image-in-react)
