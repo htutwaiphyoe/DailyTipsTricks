@@ -90,4 +90,6 @@
 
 ## 15.1.2021
 
+## 16.1.2021
+
 [reference local image in react](https://stackoverflow.com/questions/39999367/how-do-i-reference-a-local-image-in-react)
