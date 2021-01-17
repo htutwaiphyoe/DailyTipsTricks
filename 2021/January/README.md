@@ -93,3 +93,7 @@
 ## 16.1.2021
 
 [reference local image in react](https://stackoverflow.com/questions/39999367/how-do-i-reference-a-local-image-in-react)
+
+## 17.1.2021
+
+[sass-in-react](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/#sass-in-react)
