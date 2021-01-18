@@ -97,3 +97,7 @@
 ## 17.1.2021
 
 [sass-in-react](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/#sass-in-react)
+
+## 18.1.2021
+
+[0.1 + 0.2 !== 0.3](https://medium.com/better-programming/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476)
