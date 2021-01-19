@@ -101,3 +101,7 @@
 ## 18.1.2021
 
 [0.1 + 0.2 !== 0.3](https://medium.com/better-programming/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476)
+
+## 19.1.2021
+
+[Number.EPSILON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/EPSILON)
