@@ -105,3 +105,7 @@
 ## 19.1.2021
 
 [Number.EPSILON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/EPSILON)
+
+## 20.1.2021
+
+[fix binary floating point error](https://blog.blakesimpson.co.uk/page.php?id=61&title=fix-0-1-0-2-0-300000004-in-javascript&fbclid=IwAR0neNWtelJTHvc_tfQonqmd8GI8pAXlG-SiR2l7hBjVC9dVuUK-0jhIA-o)
