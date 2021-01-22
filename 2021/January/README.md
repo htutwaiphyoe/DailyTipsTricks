@@ -109,3 +109,9 @@
 ## 20.1.2021
 
 [fix binary floating point error](https://blog.blakesimpson.co.uk/page.php?id=61&title=fix-0-1-0-2-0-300000004-in-javascript&fbclid=IwAR0neNWtelJTHvc_tfQonqmd8GI8pAXlG-SiR2l7hBjVC9dVuUK-0jhIA-o)
+
+## 21.1.2021
+
+## 22.1.2021
+
+[fix binary floating point error with Number.EPSILON](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/types%20%26%20grammar/ch2.md)
