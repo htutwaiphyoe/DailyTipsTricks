@@ -115,3 +115,7 @@
 ## 22.1.2021
 
 [fix binary floating point error with Number.EPSILON](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/types%20%26%20grammar/ch2.md)
+
+## 23.1.2021
+
+[base-url-in-reactjs](https://stackoverflow.com/questions/65768274/base-url-in-reactjs?fbclid=IwAR3ptq5n9wFHqBchFJn-YOfOIgH6f2tn2QlMQ-9i5ljCJGaGcp_74SoDVV0)
