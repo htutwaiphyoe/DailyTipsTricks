@@ -119,3 +119,11 @@
 ## 23.1.2021
 
 [base-url-in-reactjs](https://stackoverflow.com/questions/65768274/base-url-in-reactjs?fbclid=IwAR3ptq5n9wFHqBchFJn-YOfOIgH6f2tn2QlMQ-9i5ljCJGaGcp_74SoDVV0)
+
+[scroll-indicator](https://www.geeksforgeeks.org/how-to-create-scroll-indicator-using-html-css-and-javascript/#:~:text=Scroll%20Indicator%20is%20a%20progress,make%20the%20scroll%20indicator%20work.)
+
+[node-sass version incompatible](https://stackoverflow.com/questions/64625050/error-node-sass-version-5-0-0-is-incompatible-with-4-0-0)
+
+## 24.1.2021
+
+[markdown table](https://github.com/emn178/markdown/blob/master/README.md#table)
