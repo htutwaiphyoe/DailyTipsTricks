@@ -127,3 +127,7 @@
 ## 24.1.2021
 
 [markdown table](https://github.com/emn178/markdown/blob/master/README.md#table)
+
+## 25.1.2021
+
+[binary search with recursion](https://646634.medium.com/how-to-write-a-recursive-binary-search-algorithm-in-javascript-ecadb5e51022)
