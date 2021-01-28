@@ -131,3 +131,12 @@
 ## 25.1.2021
 
 [binary search with recursion](https://646634.medium.com/how-to-write-a-recursive-binary-search-algorithm-in-javascript-ecadb5e51022)
+
+## 26.1.2021
+
+## 27.1.2021
+
+## 28.1.2021
+
+[declaring 2d array in js](https://stackoverflow.com/questions/966225/how-can-i-create-a-two-dimensional-array-in-javascript)
+[update git repo](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)
