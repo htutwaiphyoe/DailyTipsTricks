@@ -140,3 +140,7 @@
 
 [declaring 2d array in js](https://stackoverflow.com/questions/966225/how-can-i-create-a-two-dimensional-array-in-javascript)
 [update git repo](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)
+
+## 29.1.2021
+
+[drop database in mongodb](https://docs.mongodb.com/manual/reference/method/db.dropDatabase/)
