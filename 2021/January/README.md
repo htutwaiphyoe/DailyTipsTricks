@@ -144,3 +144,9 @@
 ## 29.1.2021
 
 [drop database in mongodb](https://docs.mongodb.com/manual/reference/method/db.dropDatabase/)
+
+## 30.1.2021
+
+[Single Linked list in JS](https://www.geeksforgeeks.org/implementation-linkedlist-javascript/)
+
+[Single Linked list in JS](https://medium.com/javascript-in-plain-english/implementing-a-linked-list-in-javascript-3f71c83487b5)
