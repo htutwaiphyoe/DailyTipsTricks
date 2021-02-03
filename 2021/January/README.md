@@ -150,3 +150,5 @@
 [Single Linked list in JS](https://www.geeksforgeeks.org/implementation-linkedlist-javascript/)
 
 [Single Linked list in JS](https://medium.com/javascript-in-plain-english/implementing-a-linked-list-in-javascript-3f71c83487b5)
+
+## 31.1.2021
