@@ -17,3 +17,7 @@
 ## 6.2.2021
 
 [Emmet in vscode](https://code.visualstudio.com/docs/editor/emmet)
+
+## 7.2.2021
+
+[Emmet for jsx](https://stackoverflow.com/questions/56311467/configure-emmet-for-jsx-in-vscode)
