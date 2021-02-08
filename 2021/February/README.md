@@ -21,3 +21,9 @@
 ## 7.2.2021
 
 [Emmet for jsx](https://stackoverflow.com/questions/56311467/configure-emmet-for-jsx-in-vscode)
+
+## 8.2.2021
+
+[Scss in different components](https://dev.to/s0xzwasd/using-scss-css-variables-in-react-322j)
+
+[Naming convention in React](https://stackoverflow.com/questions/57221878/react-classname-naming-convention)
