@@ -27,3 +27,7 @@
 [Scss in different components](https://dev.to/s0xzwasd/using-scss-css-variables-in-react-322j)
 
 [Naming convention in React](https://stackoverflow.com/questions/57221878/react-classname-naming-convention)
+
+## 9.2.2021
+
+[flex flow](https://www.w3schools.com/cssref/css3_pr_flex-flow.asp)
