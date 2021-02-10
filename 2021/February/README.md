@@ -31,3 +31,7 @@
 ## 9.2.2021
 
 [flex flow](https://www.w3schools.com/cssref/css3_pr_flex-flow.asp)
+
+## 10.2.2021
+
+[wave svg generator](https://getwaves.io/)
