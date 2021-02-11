@@ -35,3 +35,7 @@
 ## 10.2.2021
 
 [wave svg generator](https://getwaves.io/)
+
+## 11.2.2021
+
+[noscript tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript)
