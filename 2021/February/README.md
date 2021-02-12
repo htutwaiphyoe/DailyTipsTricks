@@ -39,3 +39,7 @@
 ## 11.2.2021
 
 [noscript tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript)
+
+## 12.2.2021
+
+[scss function](https://sass-lang.com/documentation/at-rules/function)
