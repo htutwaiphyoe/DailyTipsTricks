@@ -43,3 +43,7 @@
 ## 12.2.2021
 
 [scss function](https://sass-lang.com/documentation/at-rules/function)
+
+## 13.2.2021
+
+[emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)
