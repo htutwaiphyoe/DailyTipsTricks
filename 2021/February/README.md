@@ -47,3 +47,7 @@
 ## 13.2.2021
 
 [emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)
+
+## 14.2.2021
+
+[mongoose array of string](https://stackoverflow.com/questions/35509611/mongoose-save-array-of-strings)
