@@ -51,3 +51,7 @@
 ## 14.2.2021
 
 [mongoose array of string](https://stackoverflow.com/questions/35509611/mongoose-save-array-of-strings)
+
+## 15.2.2021
+
+[adding prettier options in eslintrc.json](https://github.com/prettier/eslint-plugin-prettier#options)
