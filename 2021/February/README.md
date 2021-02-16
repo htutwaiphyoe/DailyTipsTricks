@@ -55,3 +55,7 @@
 ## 15.2.2021
 
 [adding prettier options in eslintrc.json](https://github.com/prettier/eslint-plugin-prettier#options)
+
+## 16.2.2021
+
+[scroll to target](https://www.w3schools.com/jsref/met_element_scrollintoview.asp)
