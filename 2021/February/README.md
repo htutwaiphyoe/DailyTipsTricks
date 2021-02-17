@@ -59,3 +59,11 @@
 ## 16.2.2021
 
 [scroll to target](https://www.w3schools.com/jsref/met_element_scrollintoview.asp)
+
+## 17.2.2021
+
+[scroll smooth in safari](https://github.com/iamdustan/smoothscroll)
+
+## 18.2.2021
+
+## 19.2.2021
