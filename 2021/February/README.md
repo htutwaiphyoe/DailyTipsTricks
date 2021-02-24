@@ -67,3 +67,15 @@
 ## 18.2.2021
 
 ## 19.2.2021
+
+## 20.2.2021
+
+## 21.2.2021
+
+## 22.2.2021
+
+## 23.2.2021
+
+## 24.2.2021
+
+[array reverse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
