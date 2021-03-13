@@ -79,3 +79,15 @@
 ## 24.2.2021
 
 [array reverse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
+
+## 25.2.2021
+
+## 26.2.2021
+
+[font-weight css](https://www.w3schools.com/cssref/pr_font_weight.asp)
+
+[when to use inline-block](https://css-tricks.com/when-do-you-use-inline-block/)
+
+## 27.2.2021
+
+## 28.2.2021
