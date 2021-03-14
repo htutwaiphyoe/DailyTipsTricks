@@ -27,3 +27,7 @@
 ## 13.3.2021
 
 [spell check in html global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/spellcheck)
+
+## 14.3.2021
+
+[text-overflow and truncate text](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
