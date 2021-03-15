@@ -31,3 +31,7 @@
 ## 14.3.2021
 
 [text-overflow and truncate text](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
+
+## 15.3.2021
+
+[image as cursor](https://stackoverflow.com/questions/6623769/css-custom-cursor-doesnt-work-in-ff-chrome)
