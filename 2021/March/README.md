@@ -35,3 +35,7 @@
 ## 15.3.2021
 
 [image as cursor](https://stackoverflow.com/questions/6623769/css-custom-cursor-doesnt-work-in-ff-chrome)
+
+## 16.3.2021
+
+[double click event](https://developer.mozilla.org/en-US/docs/Web/API/Element/dblclick_event)
