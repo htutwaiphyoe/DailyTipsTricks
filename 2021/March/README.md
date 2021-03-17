@@ -39,3 +39,7 @@
 ## 16.3.2021
 
 [double click event](https://developer.mozilla.org/en-US/docs/Web/API/Element/dblclick_event)
+
+## 17.3.2021
+
+[merge two git repo](https://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories)
