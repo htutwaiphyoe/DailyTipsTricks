@@ -43,3 +43,7 @@
 ## 17.3.2021
 
 [merge two git repo](https://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories)
+
+## 18.3.2021
+
+[pipe function in fp](https://www.freecodecamp.org/news/pipe-and-compose-in-javascript-5b04004ac937/)
