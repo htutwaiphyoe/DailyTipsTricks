@@ -47,3 +47,7 @@
 ## 18.3.2021
 
 [pipe function in fp](https://www.freecodecamp.org/news/pipe-and-compose-in-javascript-5b04004ac937/)
+
+## 19.3.2021
+
+[reduce method in js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
