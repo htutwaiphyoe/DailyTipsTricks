@@ -51,3 +51,7 @@
 ## 19.3.2021
 
 [reduce method in js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+
+## 20.3.2021
+
+[unfold function in fp](https://nabilhassein.github.io/blog/unfold/)
