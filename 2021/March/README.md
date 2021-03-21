@@ -55,3 +55,7 @@
 ## 20.3.2021
 
 [unfold function in fp](https://nabilhassein.github.io/blog/unfold/)
+
+## 21.3.2021
+
+[pluck deep repo](https://github.com/landau/pluck-deep)
