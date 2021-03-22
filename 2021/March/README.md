@@ -59,3 +59,7 @@
 ## 21.3.2021
 
 [pluck deep repo](https://github.com/landau/pluck-deep)
+
+## 22.3.2021
+
+[difference between \n & \r](https://stackoverflow.com/questions/1761051/difference-between-n-and-r)
