@@ -67,3 +67,7 @@
 ## 23.3.2021
 
 [difference between LF & \r](https://stackoverflow.com/questions/1552749/difference-between-cr-lf-lf-and-cr-line-break-types)
+
+## 24.3.2021
+
+[sass in react](https://create-react-app.dev/docs/adding-a-sass-stylesheet/)
