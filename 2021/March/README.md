@@ -63,3 +63,7 @@
 ## 22.3.2021
 
 [difference between \n & \r](https://stackoverflow.com/questions/1761051/difference-between-n-and-r)
+
+## 23.3.2021
+
+[difference between LF & \r](https://stackoverflow.com/questions/1552749/difference-between-cr-lf-lf-and-cr-line-break-types)
