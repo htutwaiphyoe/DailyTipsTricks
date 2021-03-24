@@ -71,3 +71,9 @@
 ## 24.3.2021
 
 [sass in react](https://create-react-app.dev/docs/adding-a-sass-stylesheet/)
+
+## 25.3.2021
+
+[react folder structure](https://medium.com/swlh/demystifying-the-folder-structure-of-a-react-app-c60b29d90836)
+
+[main in html5](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main#browser_compatibility)
