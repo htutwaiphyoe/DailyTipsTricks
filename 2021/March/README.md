@@ -77,3 +77,8 @@
 [react folder structure](https://medium.com/swlh/demystifying-the-folder-structure-of-a-react-app-c60b29d90836)
 
 [main in html5](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main#browser_compatibility)
+
+## 26.3.2021
+
+[var name in js](https://stackoverflow.com/questions/29360290/javascript-var-name-1-typeof-name-gives-string)
+
