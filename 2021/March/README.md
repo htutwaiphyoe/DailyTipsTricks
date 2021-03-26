@@ -82,3 +82,6 @@
 
 [var name in js](https://stackoverflow.com/questions/29360290/javascript-var-name-1-typeof-name-gives-string)
 
+## 27.3.2021
+
+[window.name in js](https://developer.mozilla.org/en-US/docs/Web/API/Window/name)
