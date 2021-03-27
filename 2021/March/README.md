@@ -85,3 +85,9 @@
 ## 27.3.2021
 
 [window.name in js](https://developer.mozilla.org/en-US/docs/Web/API/Window/name)
+
+## 28.3.2021
+
+[responsive text](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
+
+[responsive canvas](https://stackoverflow.com/questions/34772957/how-to-make-canvas-responsive)
