@@ -92,7 +92,10 @@
 
 [responsive canvas](https://stackoverflow.com/questions/34772957/how-to-make-canvas-responsive)
 
-
 ## 29.3.2021
 
 [margin to a table row](https://stackoverflow.com/questions/10690299/how-to-add-a-margin-to-a-table-row-tr/50523913)
+
+## 30.3.2021
+
+[every method in js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
