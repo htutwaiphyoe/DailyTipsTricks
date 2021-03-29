@@ -91,3 +91,8 @@
 [responsive text](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
 
 [responsive canvas](https://stackoverflow.com/questions/34772957/how-to-make-canvas-responsive)
+
+
+## 29.3.2021
+
+[margin to a table row](https://stackoverflow.com/questions/10690299/how-to-add-a-margin-to-a-table-row-tr/50523913)
