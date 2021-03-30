@@ -99,3 +99,7 @@
 ## 30.3.2021
 
 [every method in js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
+
+## 31.3.2021
+
+[some method in js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)
