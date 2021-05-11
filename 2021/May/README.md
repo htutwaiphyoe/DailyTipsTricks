@@ -22,3 +22,8 @@
 
 [destory existing chart and redraw](https://stackoverflow.com/questions/40056555/destroy-chart-js-bar-graph-to-redraw-other-graph-in-same-canvas)
 
+## 10.5.2021
+
+## 11.5.2021
+
+[Infinity is truthy](https://stackoverflow.com/questions/17454239/why-does-booleaninfinity-gives-true#:~:text=Thus%2C%20NaN%20becomes%20false%20%2C%20and,not%20its%20coerced%20boolean%20value.)
