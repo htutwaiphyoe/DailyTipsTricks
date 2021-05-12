@@ -27,3 +27,8 @@
 ## 11.5.2021
 
 [Infinity is truthy](https://stackoverflow.com/questions/17454239/why-does-booleaninfinity-gives-true#:~:text=Thus%2C%20NaN%20becomes%20false%20%2C%20and,not%20its%20coerced%20boolean%20value.)
+
+## 12.5.2021
+
+[small tag in html](https://www.w3schools.com/tags/tag_small.asp)
+
