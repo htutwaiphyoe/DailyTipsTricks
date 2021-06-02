@@ -6,3 +6,5 @@
 
 [lodash](https://github.com/lodash/lodash)
 [dependable](https://github.com/testdouble/dependable)
+
+## 3.6.2021
