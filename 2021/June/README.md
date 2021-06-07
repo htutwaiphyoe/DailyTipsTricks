@@ -16,3 +16,8 @@
 ## 6.6.2021
 
 ## 7.6.2021
+
+## 8.6.2021
+
+[next-connect](https://github.com/hoangvvo/next-connect)
+[mongoose connection](https://mongoosejs.com/docs/api/connection.html)
