@@ -23,3 +23,5 @@
 [mongoose connection](https://mongoosejs.com/docs/api/connection.html)
 
 ## 9.6.2021
+
+## 10.6.2021
