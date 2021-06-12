@@ -29,3 +29,5 @@
 ## 11.6.2021
 
 [$regex](https://docs.mongodb.com/manual/reference/operator/query/regex/)
+
+## 12.6.2021
