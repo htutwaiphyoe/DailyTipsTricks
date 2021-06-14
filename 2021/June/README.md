@@ -33,3 +33,9 @@
 ## 12.6.2021
 
 ## 13.6.2021
+
+## 14.6.2021
+
+[next-absolute-url](https://github.com/jakeburden/next-absolute-url)
+
+[null & undefined history](https://medium.com/@stephenthecurt/a-brief-history-of-null-and-undefined-in-javascript-c283caab662e)
