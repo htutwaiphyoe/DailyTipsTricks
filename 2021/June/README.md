@@ -41,3 +41,5 @@
 [null & undefined history](https://medium.com/@stephenthecurt/a-brief-history-of-null-and-undefined-in-javascript-c283caab662e)
 
 ## 15.6.2021
+
+## 16.6.2021
