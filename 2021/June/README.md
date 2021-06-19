@@ -47,3 +47,7 @@
 ## 17.6.2021
 
 ## 18.6.2021
+
+## 19.6.2021
+
+[escape $ in markdown](https://www.markdownguide.org/basic-syntax/#escaping-characters)
