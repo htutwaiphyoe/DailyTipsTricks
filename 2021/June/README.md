@@ -51,3 +51,7 @@
 ## 19.6.2021
 
 [escape $ in markdown](https://www.markdownguide.org/basic-syntax/#escaping-characters)
+
+## 20.6.2021
+
+[react-toastify for toast message](https://github.com/fkhadra/react-toastify)
