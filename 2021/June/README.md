@@ -55,3 +55,5 @@
 ## 20.6.2021
 
 [react-toastify for toast message](https://github.com/fkhadra/react-toastify)
+
+## 21.6.2021
