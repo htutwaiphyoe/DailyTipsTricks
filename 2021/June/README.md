@@ -61,3 +61,11 @@
 ## 22.6.2021
 
 ## 23.6.2021
+
+## 24.6.2021
+
+[sematic vs non-sematic tags](https://www.geeksforgeeks.org/difference-between-semantic-and-non-semantic-elements/)
+
+[jsdocs](https://jsdoc.app/)
+
+[javascript documentation standard](https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/javascript/)
