@@ -75,3 +75,9 @@
 ## 26.6.2021
 
 ## 27.6.2021
+
+## 28.6.2021
+
+[remixicon](https://remixicon.com/)
+
+[hsl color](https://www.w3schools.com/colors/colors_hsl.asp)
