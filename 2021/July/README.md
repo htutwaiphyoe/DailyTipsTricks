@@ -13,3 +13,7 @@
 [video dom js](https://www.w3schools.com/jsref/dom_obj_video.asp)
 
 [memory leak in js](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/#Introduction)
+
+## 3.7.2021
+
+[filter invert](<https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/invert()>)
