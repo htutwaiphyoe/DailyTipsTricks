@@ -17,3 +17,15 @@
 ## 3.7.2021
 
 [filter invert](<https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/invert()>)
+
+## 4.7.2021
+
+[css selector reference](https://www.w3schools.com/cssref/css_selectors.asp)
+
+[attribute selector](https://www.w3schools.com/cssref/sel_attribute.asp)
+
+[offsetHeight](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetHeight)
+
+[offsetTop](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop)
+
+[scrollreveal](https://github.com/jlmakes/scrollreveal)
