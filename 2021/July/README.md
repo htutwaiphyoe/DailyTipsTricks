@@ -29,3 +29,9 @@
 [offsetTop](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop)
 
 [scrollreveal](https://github.com/jlmakes/scrollreveal)
+
+## 5.7.2021
+
+[unicons](https://iconscout.com/unicons/getting-started/thinline)
+
+[blob maker](https://www.blobmaker.app/)
