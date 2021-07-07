@@ -37,3 +37,5 @@
 [blob maker](https://www.blobmaker.app/)
 
 ## 6.7.2021
+
+## 7.7.2021
