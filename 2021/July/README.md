@@ -45,3 +45,7 @@
 [react-js-pagination](https://github.com/wwwaiser/react-js-pagination)
 
 [countDocument in collection](https://docs.mongodb.com/manual/reference/method/db.collection.countDocuments/)
+
+## 9.7.2021
+
+[javascript execution context](https://dev.to/luigircruz/javascript-execution-context-38cn)
