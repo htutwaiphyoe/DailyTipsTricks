@@ -49,3 +49,7 @@
 ## 9.7.2021
 
 [javascript execution context](https://dev.to/luigircruz/javascript-execution-context-38cn)
+
+## 10.7.2021
+
+[git bad signature index file corrupt](https://stackoverflow.com/questions/1115854/how-to-resolve-error-bad-index-fatal-index-file-corrupt-when-using-git)
