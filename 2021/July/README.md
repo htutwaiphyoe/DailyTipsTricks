@@ -53,3 +53,7 @@
 ## 10.7.2021
 
 [git bad signature index file corrupt](https://stackoverflow.com/questions/1115854/how-to-resolve-error-bad-index-fatal-index-file-corrupt-when-using-git)
+
+## 11.7.2021
+
+[name in js](https://stackoverflow.com/questions/2663740/what-is-the-name-keyword-in-javascript/2663762)
