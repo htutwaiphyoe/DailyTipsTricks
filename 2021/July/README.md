@@ -57,3 +57,7 @@
 ## 11.7.2021
 
 [name in js](https://stackoverflow.com/questions/2663740/what-is-the-name-keyword-in-javascript/2663762)
+
+## 12.7.2021
+
+[FileReader in js](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
